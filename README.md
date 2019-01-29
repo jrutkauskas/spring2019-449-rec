@@ -30,11 +30,11 @@ Recitation:
 	
 	Tuesday 12-12:50pm
 
-## Policy
+## Policy to note
 
-Attendance
 
-	Attendance at each recitation is not counted for a grade.
+- Attendance at each recitation is not counted for a grade.
 
-	Students can attend ANY recitation, not just the one on their schedule.
+- Students can attend ANY recitation, not just the one on their schedule.
 
+- Labs are graded and to be submitted by the deadline according to the assignment description
