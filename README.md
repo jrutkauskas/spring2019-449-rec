@@ -22,7 +22,7 @@ Office Hours
 
 	In SENSQ 5806 (UTA office)
 
-	![Map to office](https://i.imgur.com/8OIXV3f.png)
+![Map to office](https://i.imgur.com/8OIXV3f.png)
 
 -------------
 
