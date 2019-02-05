@@ -2,11 +2,15 @@
 ## Introduction
 This repository contains the slides, questions, and related materials for my 449 recitation.  
 
+This webpage:	https://github.com/jrutkauskas/spring2019-449-rec
+\
+Course Webpage:	https://jarrettbillingsley.github.io/teaching/classes/cs0449/
+
 ## UTA Info
 
 Jon Rutkauskas
 
-	Email: jsr68@pitt.edu
+	Email: jsr68 (at) pitt.edu
 
 	On Discord: @jrutkauskas
 
@@ -16,9 +20,9 @@ Please don't hesitate to contact me with any questions you have on labs, project
 
 Office Hours
 
-	Tuesday 11-11:50am (just before recitation)
+- Tuesday 11-11:50am (just before recitation)
 
-	Thursday 11am-12:50pm
+- Thursday 11am-12:50pm
 
 	In SENSQ 5806 (UTA office)
 
@@ -28,7 +32,8 @@ Office Hours
 
 Recitation:
 	
-	Tuesday 12-12:50pm
+	Tuesday 12-12:50pm 
+	SENSQ 5502
 
 ## Policy to note
 
