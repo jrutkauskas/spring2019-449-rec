@@ -1,10 +1,30 @@
 # Spring 2019 CS449 Recitation
+
+## Update: Finals Week Office Hours
+
+My finals week office hours will be:
+
+- Tuesday from 12pm – 1pm 
+
+- Wednesday from 10am – 12pm 
+
+- Friday from 1pm – 3pm
+
+In my usual office, SENSQ 5806
+
+I may try to snag a different classroom if the office fills up, in that case, I'd put a sign on the door saying which
+classroom I moved to.
+
+Best of luck to everyone during finals week!
+
+
 ## Introduction
 This repository contains the slides, questions, and related materials for my 449 recitation.  
 
 This webpage:	https://github.com/jrutkauskas/spring2019-449-rec
 \
 Course Webpage:	https://jarrettbillingsley.github.io/teaching/classes/cs0449/
+
 
 ## UTA Info
 
