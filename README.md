@@ -1,5 +1,12 @@
 # Spring 2019 CS449 Recitation
 
+## Update: Thanks for a great semester!
+
+With the semester complete, I just want to say thank you for another wonderful semester.  I probably have any of you as students again, but I still look forward to seeing you
+all around the department.  I hope you all have a good Summer!
+
+I won't be updating this anymore, but I'll keep it up for your reference later.
+
 ## Update: Finals Week Office Hours
 
 My finals week office hours will be:
